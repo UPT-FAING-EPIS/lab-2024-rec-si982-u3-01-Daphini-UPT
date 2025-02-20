@@ -1,0 +1,1 @@
+C:\Trabajo\web2rec\lab4\src\ShortenApp\publish\web.config
